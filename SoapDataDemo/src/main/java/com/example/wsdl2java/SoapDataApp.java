@@ -1,10 +1,8 @@
 package com.example.wsdl2java;
 
-import com.example.wsdl2java.SoapDataUtils;
 
 import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URL;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
